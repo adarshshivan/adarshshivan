@@ -4,6 +4,7 @@ Cloud Computing Student focused on DevOps practices, CI/CD, and automating infra
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshshivan30@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-shivan/)
 
 
 # 📊 GitHub Stats:
