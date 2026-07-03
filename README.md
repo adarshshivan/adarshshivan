@@ -49,26 +49,10 @@ I'm passionate about building scalable cloud infrastructure and automating deplo
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshshivan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshshivan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adarshshivan&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=adarshshivan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
-
----
-
-## 📈 Contribution Graph
-
-[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshshivan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -90,6 +74,3 @@ I'm passionate about building scalable cloud infrastructure and automating deplo
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshshivan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
